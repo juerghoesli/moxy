@@ -11,13 +11,13 @@ Grundlage: `docs/konzept/ERPSE_Flow_Gesamtkonzept_v1.0.md` (22. September 2026).
 | Bereich | Stand |
 |---|---|
 | Konzept | liegt vor, Version 1.0 |
-| Etappe A – Bildschirmkonzepte, Begriffe, Datenverträge | **nicht begonnen, nicht freigegeben** |
+| Etappe A – Bildschirmkonzepte, Begriffe, Datenverträge | Entwurf liegt vor, Abnahme durch den Auftraggeber offen |
 | Etappe B – Geräteanbindung und Steuerung | nicht begonnen |
 | Etappe C–F | nicht begonnen |
 
 Es existiert **keine** Implementierung, keine geprüfte Geräteanbindung und kein
 Nachweis realer Hardwarekompatibilität. Dieses Repository enthält bisher
-ausschliesslich das Konzeptdokument.
+ausschliesslich Konzept- und Entwurfsdokumente unter `docs/konzept/`.
 
 ## Arbeitsweise
 
